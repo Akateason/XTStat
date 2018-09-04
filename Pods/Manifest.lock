@@ -31,7 +31,7 @@ PODS:
   - XTFMDB (1.5.0):
     - FMDB
     - YYModel
-  - XTlib/util (1.2.24):
+  - XTlib/util (1.2.25):
     - Masonry
     - MJRefresh
     - ReactiveObjC
@@ -68,7 +68,7 @@ SPEC CHECKSUMS:
   Valet: 14463ef24fab8fd5809044ecedb61484b799fdd6
   XTColor: 77dc1fb053ad58e6821d7de84fabbec361402d94
   XTFMDB: ea6aafd008968bc3a28e7378449df3a992b15e6b
-  XTlib: 11f6ab763e206b5070f956f8120fa9674ff8587d
+  XTlib: 933c745a591f60a31b4c0c175b9e24d6c8545029
   XTReq: 93321bcb9407e902d01eabe33d174a3420174f0f
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
