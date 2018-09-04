@@ -1,0 +1,77 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.6)
+  - ReactiveObjC (3.1.0)
+  - RxWebViewController (0.0.2)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SSZipArchive (2.1.4)
+  - SVProgressHUD (2.2.5)
+  - Valet (2.4.2)
+  - XTColor (1.0.3)
+  - XTFMDB (1.5.0):
+    - FMDB
+    - YYModel
+  - XTlib/util (1.2.24):
+    - Masonry
+    - MJRefresh
+    - ReactiveObjC
+    - RxWebViewController
+    - SDWebImage
+    - SSZipArchive
+    - Valet (= 2.4.2)
+    - XTColor
+    - XTFMDB
+    - XTReq
+  - XTReq (1.0.2):
+    - AFNetworking
+    - SVProgressHUD
+    - XTFMDB
+    - YYModel
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - SSZipArchive
+  - XTFMDB
+  - XTlib/util
+  - XTReq
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 0efa19656679d70a0f47cbe76e56c2271fe53a97
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  RxWebViewController: 79bcbf51aff13d93db9779404348b052ab0cd440
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SSZipArchive: 41455d4b8d2b6ab93990820b50dc697c2554a322
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Valet: 14463ef24fab8fd5809044ecedb61484b799fdd6
+  XTColor: 77dc1fb053ad58e6821d7de84fabbec361402d94
+  XTFMDB: ea6aafd008968bc3a28e7378449df3a992b15e6b
+  XTlib: 11f6ab763e206b5070f956f8120fa9674ff8587d
+  XTReq: 93321bcb9407e902d01eabe33d174a3420174f0f
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 7fd614d7635bb302309ee5654ae03ad3cced60ce
+
+COCOAPODS: 1.4.0
